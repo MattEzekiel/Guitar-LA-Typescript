@@ -2,22 +2,10 @@
 This project is a mockup for an ecommerce of guitars. Previously I made one using Node + React (JSX). But now I'm making this mockup for typescript
 
 ## 🎸 Start the project
-1. Install dependencies with:
-<code>
-npm i
-</code>
-or <code>
-npm install
-</code>
-2. Run development code <code>
-   npm run dev
-   </code>
-3. Build <code>
-   npm run build
-   </code>
-4. Start your build project 2. Run development code <code>
-   npm run preview
-   </code> 
+1. Install dependencies with <code>npm i</code> or <code>npm install</code>
+2. Run development code <code>npm run dev</code>
+3. Build <code>npm run build</code>
+4. Start your build project <code>npm run preview</code> 
 
 ## 🛠️ Stack
 
